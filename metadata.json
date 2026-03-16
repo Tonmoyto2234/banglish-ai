@@ -1,0 +1,5 @@
+{
+  "name": "Banglish Converter",
+  "description": "An advanced Bangla-to-Banglish transliteration tool that converts Bengali script into natural Romanized Banglish.",
+  "requestFramePermissions": []
+}
